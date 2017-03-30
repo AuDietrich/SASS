@@ -1,0 +1,9 @@
+$SizeH:100px;
+$BigBlockColor:rgba(255,0,0,0.3);
+$SizeW:400px;
+#BigBlock
+{
+height:$SizeH;
+width:$SizeW;
+background-color:$BigBlockColor;
+}
